@@ -1,5 +1,5 @@
 class Taberna {
-    fun Taberna(sed : Int): Int{
+    fun taberna(sed : Int): Int{
         return sed - 5
     }
 }
