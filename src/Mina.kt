@@ -12,7 +12,7 @@ open class Mina {
             oro + 1
         } else {
             total = Bank.BancoOro(OroActual)
-            0
+            return OroActual- OroActual
         }
     }
         open fun ConSed(Sed: Int): Int {
@@ -41,4 +41,3 @@ open class Mina {
 
 
 
-}
